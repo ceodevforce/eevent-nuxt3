@@ -7,6 +7,15 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
+    "@nuxtjs/color-mode": "^3.0.3",
+    "@unocss/nuxt": "^0.33.2",
+    "@vueuse/core": "^8.4.2",
+    "@vueuse/nuxt": "^8.4.2",
     "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.32.0",
+    "@pinia/nuxt": "^0.1.9",
+    "pinia": "^2.0.14"
   }
 }
